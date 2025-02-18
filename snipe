@@ -81,7 +81,7 @@ _G.ZapHubBoothsSniperSettings = {
 {Item = "Huge Bee", MaxPrice = 18550000, Class = "Pet"},
 {Item = "Huge Lit Cat", MaxPrice = 18550000, Class = "Pet"},
 {Item = "Huge Wizard Westie", MaxPrice = 18710000, Class = "Pet"},
-{Item = "Huge Valentines Axolotl", MaxPrice = 18140000, Class = "Pet"},
+{Item = "Huge Valentines Axolotl", MaxPrice = 16140000, Class = "Pet"},
 {Item = "Huge Old Wizard Owl", MaxPrice = 19180000, Class = "Pet"},
 {Item = "Huge Whale Shark", MaxPrice = 19220000, Class = "Pet"},
 {Item = "Huge Rudolf", MaxPrice = 19270000, Class = "Pet"},
