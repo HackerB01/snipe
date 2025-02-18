@@ -220,7 +220,10 @@ _G.ZapHubBoothsSniperSettings = {
 {Item = "Exclusive Egg 41", MaxPrice = 20000000, Class = "Egg"},
 {Item = "Exclusive Egg 42", MaxPrice = 20000000, Class = "Egg"},
 {Item = "Exclusive Egg 43", MaxPrice = 20000000, Class = "Egg"},
-{Item = "Exclusive Egg 44", MaxPrice = 20000000, Class = "Egg"},
+{Item = "Exclusive Egg 44", MaxPrice = 50000000, Class = "Egg"},
+{Item = "Exclusive Egg 45", MaxPrice = 60000000, Class = "Egg"},
+{Item = "Valentines Present", MaxPrice = 360000000, Class = "Egg"},
+
 
       },
     Extras = {
