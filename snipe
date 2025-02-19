@@ -158,5 +158,3 @@ _G.ZapHubBoothsSniperSettings = {
 }
 
 loadstring(game:HttpGet('https://zaphub.xyz/ExecBoothSniper'))()
-https://raw.githubusercontent.com/HackerB01/snipe/refs/heads/main/snipe
-loadstring(game:HttpGet(https://raw.githubusercontent.com/HackerB01/snipe/refs/heads/main/snipe))()
