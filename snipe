@@ -9,7 +9,7 @@ _G.ZapHubBoothsSniperSettings = {
 {Item = "Large Gift Bag", MaxPrice = 7000, Class = "Misc"},
 {Item = "Hype Egg 2", MaxPrice = 5000000, Class = "Misc"},
 {Item = "Huge Hunter", MaxPrice = 30000, Class = "Potion"},
-{Item = "The Cocktail", MaxPrice = 90000, Class = "Potion"},
+{Item = "The Cocktail", MaxPrice = 50000, Class = "Potion"},
 {Item = "Active Huge", MaxPrice = 90000000, Class = "Egg"},
 {Item = "Mini Chest", MaxPrice = 25000, Class = "Misc"},
 {Item = "Huge Scarecrow Dog", MaxPrice = 14760000, Class = "Pet"},
