@@ -8,7 +8,7 @@ _G.ZapHubBoothsSniperSettings = {
 {Item = "Mini Pinata", MaxPrice = 19000, Class = "Misc"},
 {Item = "Large Gift Bag", MaxPrice = 7000, Class = "Misc"},
 {Item = "Hype Egg 2", MaxPrice = 5000000, Class = "Misc"},
-{Item = "Huge Hunter", MaxPrice = 30000, Class = "Potion"},
+{Item = "Huge Hunter", MaxPrice = 3000000, Class = "Potion"},
 {Item = "The Cocktail", MaxPrice = 50000, Class = "Potion"},
 {Item = "Active Huge", MaxPrice = 90000000, Class = "Egg"},
 {Item = "Mini Chest", MaxPrice = 25000, Class = "Misc"},
@@ -106,6 +106,100 @@ _G.ZapHubBoothsSniperSettings = {
 {Item = "Valentines Present", MaxPrice = 45000000, Class = "Egg"},
 {Item = "Leprechaun Key", MaxPrice = 600000, Class = "Misc"},
 {Item = "Lucky Gift", MaxPrice = 40000, Class = "Lootbox"},
+{Item = "Celestial Dragon", MaxPrice = 5300000, Class = "Pet"}
+{Item = "Classic Dragon", MaxPrice = 5730000, Class = "Pet"}
+{Item = "Cool Dragon", MaxPrice = 5320000, Class = "Pet"}
+{Item = "Diamond Cat", MaxPrice = 5410000, Class = "Pet"}
+{Item = "Dragonfruit Dragon", MaxPrice = 3940000, Class = "Pet"}
+{Item = "Exquisite Elephant", MaxPrice = 5980000, Class = "Pet"}
+{Item = "Exquisite Parrot", MaxPrice = 4380000, Class = "Pet"}
+{Item = "Flex Tiger", MaxPrice = 5780000, Class = "Pet"}
+{Item = "Googly Shark", MaxPrice = 5190000, Class = "Pet"}
+{Item = "Hologram Axolotl", MaxPrice = 6040000, Class = "Pet"}
+{Item = "Inferno Dominus", MaxPrice = 6600000, Class = "Pet"}
+{Item = "Jelly Monkey", MaxPrice = 4800000, Class = "Pet"}
+{Item = "Jurassic Beaver", MaxPrice = 3470000, Class = "Pet"}
+{Item = "Luchador Eagle", MaxPrice = 5320000, Class = "Pet"}
+{Item = "Matryoshka Dino", MaxPrice = 3470000, Class = "Pet"}
+{Item = "Midnight Zebra", MaxPrice = 5480000, Class = "Pet"}
+{Item = "Naughty Dominus", MaxPrice = 2880000, Class = "Pet"}
+{Item = "Nightfall Ram", MaxPrice = 5800000, Class = "Pet"}
+{Item = "Nightfall Tiger", MaxPrice = 6170000, Class = "Pet"}
+{Item = "Old Wizard Dragon", MaxPrice = 5930000, Class = "Pet"}
+{Item = "Peppermint Angelus", MaxPrice = 7380000, Class = "Pet"}
+{Item = "Present Chest Mimic", MaxPrice = 6170000, Class = "Pet"}
+{Item = "Puurple Cat", MaxPrice = 6130000, Class = "Pet"}
+{Item = "Anime Corgi", MaxPrice = 4800000, Class = "Pet"}
+{Item = "Anime Monkey", MaxPrice = 4900000, Class = "Pet"}
+{Item = "Atlantean Stingray", MaxPrice = 3570000, Class = "Pet"}
+{Item = "Balloon Corgi", MaxPrice = 3240000, Class = "Pet"}
+{Item = "Bejeweled Deer", MaxPrice = 3260000, Class = "Pet"}
+{Item = "Black Hole Immortuus", MaxPrice = 4550000, Class = "Pet"}
+{Item = "Blazing Corgi", MaxPrice = 4230000, Class = "Pet"}
+{Item = "Buff Doge", MaxPrice = 6000000, Class = "Pet"}
+{Item = "Cannibal Meerkat", MaxPrice = 3460000, Class = "Pet"}
+{Item = "Cartoon Corgi", MaxPrice = 4140000, Class = "Pet"}
+{Item = "Classic Bunny", MaxPrice = 2070000, Class = "Pet"}
+{Item = "Clout Cat", MaxPrice = 3300000, Class = "Pet"}
+{Item = "Cool Corgi", MaxPrice = 2730000, Class = "Pet"}
+{Item = "Crystal Deer", MaxPrice = 3520000, Class = "Pet"}
+{Item = "Crystal Dog", MaxPrice = 2980000, Class = "Pet"}
+{Item = "Cupid Corgi", MaxPrice = 5230000, Class = "Pet"}
+{Item = "Dot Matrix Snail", MaxPrice = 3120000, Class = "Pet"}
+{Item = "Emerald Monkey", MaxPrice = 3200000, Class = "Pet"}
+{Item = "Emoji Dog", MaxPrice = 4390000, Class = "Pet"}
+{Item = "Empyrean Dominus", MaxPrice = 2920000, Class = "Pet"}
+{Item = "Festive Hydra", MaxPrice = 3230000, Class = "Pet"}
+{Item = "Flex Bear", MaxPrice = 3130000, Class = "Pet"}
+{Item = "Gargoyle Dragon", MaxPrice = 4910000, Class = "Pet"}
+{Item = "Gary the Snail", MaxPrice = 4730000, Class = "Pet"}
+{Item = "Googly Cat", MaxPrice = 2650000, Class = "Pet"}
+{Item = "Grinch Cat", MaxPrice = 4810000, Class = "Pet"}
+{Item = "Holiday Balloon Cat", MaxPrice = 3830000, Class = "Pet"}
+{Item = "Hologram Tiger", MaxPrice = 3810000, Class = "Pet"}
+{Item = "Jelly Panda", MaxPrice = 3950000, Class = "Pet"}
+{Item = "Jelly Shiba", MaxPrice = 4860000, Class = "Pet"}
+{Item = "Jurassic Elephant", MaxPrice = 2830000, Class = "Pet"}
+{Item = "Lovemelon", MaxPrice = 4950000, Class = "Pet"}
+{Item = "Luchador Axolotl", MaxPrice = 4090000, Class = "Pet"}
+{Item = "Matryoshka Fox", MaxPrice = 3950000, Class = "Pet"}
+{Item = "Midnight Deer", MaxPrice = 3580000, Class = "Pet"}
+{Item = "Mosaic Corgi", MaxPrice = 4630000, Class = "Pet"}
+{Item = "Mosaic Dove", MaxPrice = 3330000, Class = "Pet"}
+{Item = "Mosaic Elephant", MaxPrice = 2650000, Class = "Pet"}
+{Item = "Mosaic Griffin", MaxPrice = 5030000, Class = "Pet"}
+{Item = "Mosaic Lamb", MaxPrice = 1880000, Class = "Pet"}
+{Item = "Nature Dragon", MaxPrice = 4830000, Class = "Pet"}
+{Item = "Neon Dog", MaxPrice = 3680000, Class = "Pet"}
+{Item = "Neon Twilight Cat", MaxPrice = 3850000, Class = "Pet"}
+{Item = "Neon Twilight Tiger", MaxPrice = 3700000, Class = "Pet"}
+{Item = "Nightmare Bear", MaxPrice = 3320000, Class = "Pet"}
+{Item = "Orange Axolotl", MaxPrice = 2480000, Class = "Pet"}
+{Item = "Pony", MaxPrice = 5600000, Class = "Pet"}
+{Item = "Rift Dragon", MaxPrice = 5410000, Class = "Pet"}
+{Item = "Sad Bunny", MaxPrice = 4160000, Class = "Pet"}
+{Item = "Anime Unicorn", MaxPrice = 3000000, Class = "Pet"}
+{Item = "Bejeweled Unicorn", MaxPrice = 2520000, Class = "Pet"}
+{Item = "Blueberry Cow", MaxPrice = 2950000, Class = "Pet"}
+{Item = "Cartoon Bunny", MaxPrice = 1840000, Class = "Pet"}
+{Item = "Chad Elephant", MaxPrice = 2780000, Class = "Pet"}
+{Item = "Classic Dog", MaxPrice = 2590000, Class = "Pet"}
+{Item = "Cool Cat", MaxPrice = 2150000, Class = "Pet"}
+{Item = "Cosmic Axolotl", MaxPrice = 2970000, Class = "Pet"}
+{Item = "Flex Fluffy Cat", MaxPrice = 2520000, Class = "Pet"}
+{Item = "Holiday Bearserker", MaxPrice = 3000000, Class = "Pet"}
+{Item = "Holiday Pegasus", MaxPrice = 1950000, Class = "Pet"}
+{Item = "Hologram Shark", MaxPrice = 2540000, Class = "Pet"}
+{Item = "Hypnotic Cat", MaxPrice = 3000000, Class = "Pet"}
+{Item = "Jelly Axolotl", MaxPrice = 3000000, Class = "Pet"}
+{Item = "Jelly Corgi", MaxPrice = 3000000, Class = "Pet"}
+{Item = "Jester Dog", MaxPrice = 2340000, Class = "Pet"}
+{Item = "Luchador Coyote", MaxPrice = 2530000, Class = "Pet"}
+{Item = "Midnight Cat", MaxPrice = 2340000, Class = "Pet"}
+{Item = "Neon Cat", MaxPrice = 2180000, Class = "Pet"}
+{Item = "Neon Twilight Wolf", MaxPrice = 2320000, Class = "Pet"}
+
+
       },
     Extras = {
         TitanicPet = {Enabled = true, PercentageProfit = "0", MaxPrice = 1000000000},
