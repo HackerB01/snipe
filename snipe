@@ -93,8 +93,7 @@ _G.ZapHubBoothsSniperSettings = {
 {Item = "Huge Holiday Bearserker", MaxPrice = 18850000, Class = "Pet"},  
 {Item = "Huge Player Panda", MaxPrice = 21610000, Class = "Pet"},  
 {Item = "Huge Shuriken Corgi", MaxPrice = 19650000, Class = "Pet"},  
-{Item = "Huge Nuclear Wild Dog", MaxPrice = 19660000, Class = "Pet"},  
-{Item = "Huge Ghost", MaxPrice = 20000000, Class = "Pet"},
+{Item = "Huge Nuclear Wild Dog", MaxPrice = 17660000, Class = "Pet"},  
 {Item = "Exclusive Egg 37", MaxPrice = 20000000, Class = "Egg"},
 {Item = "Exclusive Egg 38", MaxPrice = 20000000, Class = "Egg"},
 {Item = "Exclusive Egg 39", MaxPrice = 20000000, Class = "Egg"},
@@ -104,10 +103,9 @@ _G.ZapHubBoothsSniperSettings = {
 {Item = "Exclusive Egg 43", MaxPrice = 20000000, Class = "Egg"},
 {Item = "Exclusive Egg 44", MaxPrice = 55000000, Class = "Egg"},
 {Item = "Exclusive Egg 45", MaxPrice = 55000000, Class = "Egg"},
-{Item = "Super Hero Pack", MaxPrice = 70000000, Class = "Lootbox"},
 {Item = "Valentines Present", MaxPrice = 45000000, Class = "Egg"},
-
-
+{Item = "Leprechaun Key", MaxPrice = 1700000, Class = "Misc"},
+{Item = "Lucky Gift", MaxPrice = 40000, Class = "Lootbox"},
       },
     Extras = {
         TitanicPet = {Enabled = true, PercentageProfit = "0", MaxPrice = 1000000000},
